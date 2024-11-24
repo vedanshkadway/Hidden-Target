@@ -3,8 +3,12 @@ Welcome to Random Number Generator, a simple tool created using HTML, CSS, and J
 
 **Features 🌟**
 1)Input your desired range (minimum and maximum values).
+
 2)Click a button to instantly generate a random number.
+
 3)Simple and clean user interface.
+
+
 4)Built with only HTML, CSS, and JavaScript – no additional libraries required.
 
 **How It Works ⚙️**
